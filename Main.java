@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("=== Grocery Store System ===\n");
+        System.out.println("\n Grocery Store System \n");
 
         
         Product apple = new Product(1, "Apple", 250, 30);
@@ -30,6 +30,6 @@ public class Main {
         System.out.println("\nCustomer info:");
         System.out.println(customer);
 
-        System.out.println("\n=== Program Complete ===");
+        System.out.println("\n Program Complete ");
     }
 }
